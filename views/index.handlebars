@@ -1,11 +1,11 @@
-<h1>Burgers!</h1>
+<h1>BURGER MANIA!</h1>
 
-<h2>Burgers on the Menu!</h2>
+<h2>Burgers on Today's MENU!</h2>
 
 <ul>
   {{#each burgers}}
     {{#unless devoured}}
-      {{> burgers/burger-block devoured=true}}
+      {{> burgers/burger-block devoured=false}}
     {{/unless}}
   {{/each}}
 </ul>
@@ -20,8 +20,8 @@
   {{/each}}
 </ul>
 
-<h2>Add a Delicious Burger</h2>
-<form class="create-form">
+<h2>Add a Delicious Burger to the MENU</h2>
+<form class="addBurger">
 
   <div class="form-group">
     <label for="newBurger">Burger Name:</label>
