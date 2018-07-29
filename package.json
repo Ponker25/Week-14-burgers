@@ -1,5 +1,5 @@
 {
-  "name": "week14-burgers",
+  "name": "week-14-burgers",
   "version": "1.0.0",
   "description": "\"Adds burgers to the daily menu and lets you devour them.\"",
   "main": "server.js",
