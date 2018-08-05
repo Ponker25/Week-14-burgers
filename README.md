@@ -1,4 +1,4 @@
-#**Burger Mania!**
+#Burger Mania!
 
 Eat Da Burger Restaurant App.
 
@@ -8,12 +8,13 @@ Eat Da Burger Restaurant App.
     Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
     with Handlebars to generate the HTML.
 
-##**Getting Started**
->To get started on this project, follow the installations instructions below.
+**Getting Started**
 
-##**Installations**
+To get started on this project, follow the installations instructions below.
 
-###**Before you contribute**
+**Installations**
+
+**Before you contribute**
 
 Make sure you install all the dependencies you need for the project
 Once you have Node.js installed on your computer
