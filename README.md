@@ -2,11 +2,11 @@
 
 Eat Da Burger Restaurant App.
 
-    A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. 
-    Add a burger you'd love to chow down, then devour it! Keeps track of burgers you want 
-    to devour, and burgers you have already devoured.
-    Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
-    with Handlebars to generate the HTML.
+A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. 
+Add a burger you'd love to chow down, then devour it! Keeps track of burgers you want 
+to devour, and burgers you have already devoured.
+Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
+with Handlebars to generate the HTML.
 
 ## Getting Started
 
@@ -43,9 +43,9 @@ The above command will start the server for you
 
 If you see "App listening on PORT 8080" in your CLI, then you're good to go :thumbsup:!
 
-Happy Contributing!
+**Happy Contributing!**
 
-**Built With**
+###### Built With
 * Node.JS
 * Express
 * Handlebars
