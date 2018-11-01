@@ -1,6 +1,6 @@
 # Burger Mania!
 
-![Burger Mania]('./public/images/Burger-Mania.PNG')
+![Burger Mania](/images/Burger-Mania.PNG)
 
 Eat Da Burger Restaurant App.
 
