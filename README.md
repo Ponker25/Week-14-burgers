@@ -1,5 +1,7 @@
 # Burger Mania!
 
+![Burger Mania]('./public/images/Burger-Mania.PNG')
+
 Eat Da Burger Restaurant App.
 
 A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. 
